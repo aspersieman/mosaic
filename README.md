@@ -34,7 +34,7 @@ Should be able to run this tool on a normal computer or in the browser (wasm).
  - build: -> temporary destination of build code
  - docker: -> docker build environment for easier distribution
  - src: -> all source code
-    - |_ shared: -> shared classes
+    - |_ common: -> shared classes
     - |_ standard: -> code for computer version
     - |_ wasm: -> code for wasm version
  - Makefile
