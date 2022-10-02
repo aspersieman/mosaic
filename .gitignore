@@ -32,4 +32,9 @@
 *.app
 
 build
+!build/.gitkeep
+!build/build.sh
 .ccls-cache
+CMakeFiles
+cmake_install.cmake
+CMakeCache.txt
