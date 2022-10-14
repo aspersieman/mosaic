@@ -59,7 +59,7 @@ bool thumbnails(const char* imagesDirectory, const char* outputDirectory, int wi
 
 int main(int argc, char** argv)
 {
-  // TODO allow cleaning of all output files
+  // TODO allow cleaning of all output/temp files
 
   // TODO accept as input arguments
   const char* imagesDirectory = "/home/nicol/Downloads/motleymaker/test/";
